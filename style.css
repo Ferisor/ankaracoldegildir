@@ -1,0 +1,46 @@
+body{
+    margin: 0px;
+    transition-duration: 1s;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.middum{
+    float: middle;
+    height: 68px;
+    width: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+p{
+    background-color: transparent;
+    color: red;
+    font-size: 50px;
+}
+
+p1{
+    color: red;
+    font-size: 40px;
+}
+
+
+body{
+    background-color: black;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+}
+body{height:100vh;
+    box-sizing:border-box;
+    overflow-y:hidden;} 
+
+
+
+    madeby flarnhess
